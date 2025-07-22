@@ -1,0 +1,11 @@
+# Ignore Maven build output
+target/
+videos/
+logs/
+reports/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

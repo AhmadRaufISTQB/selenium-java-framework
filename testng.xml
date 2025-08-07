@@ -7,7 +7,7 @@
     </listeners>
     <test name="LoginTests">
         <classes>
-            <class name="com.ahmad.automation.tests.product.SearchTests" />
+            <class name="com.ahmad.automation.tests.AutomationPracticeTests" />
         </classes>
     </test>
 </suite>
